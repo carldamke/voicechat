@@ -1,22 +1,22 @@
 {
-   "name": "VoiceChat API",
-  "description": "VoiceChat is a set of APIs to create conference rooms on the fly to be used in the browser. Its built using the Plivo WebSDK and APIs.",
+   "name": "voiceroomg7e",
+  "description": "A voiceroom for g7e.",
   "keywords": [
     "plivo",
     "conference",
     "webrtc",
-    "telephony"
+    "telephony",
+    "g7e"
   ],
-  "website": "https://www.voicechatapi.com/",
-  "repository": "https://github.com/plivo/voicechat",
-  "logo": "https://www.voicechatapi.com/static/img/voicechatapi_logo_chrome_icon_500x500.png",
+  "website": "http://voiceroomg7e.herokuapp.com",
+  "repository": "https://github.com/carldamke/voicechat",
   "success_url": "/",
   "env": {
     "PLIVO_AUTH_ID": {
-      "description": "Your Plivo AuthID from https://manage.plivo.com"
+      "description": "MAOTC4YZGZZDE4OWNJYT"
     },
     "PLIVO_AUTH_TOKEN": {
-      "description": "Your Plivo AuthToken from https://manage.plivo.com"
+      "description": "NTE3YjQ0ODFiYjE3NjRjODMxNWYyNzg4YjEwZGQ0"
     }
   },
   "image": "heroku/python",
