@@ -1,8 +1,8 @@
 import os
 
 # Plivo Auth ID and Auth Token
-PLIVO_AUTH_ID = os.environ.get('PLIVO_AUTH_ID')
-PLIVO_AUTH_TOKEN = os.environ.get('PLIVO_AUTH_TOKEN')
+PLIVO_AUTH_ID = os.environ.get('MAOTC4YZGZZDE4OWNJYT')
+PLIVO_AUTH_TOKEN = os.environ.get('NTE3YjQ0ODFiYjE3NjRjODMxNWYyNzg4YjEwZGQ0')
 
 # Plivo Caller ID
 PLIVO_CALLER_ID = os.environ.get('PLIVO_CALLER_ID', '')
